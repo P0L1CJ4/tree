@@ -10,7 +10,11 @@ ELBOW = "\--"
 TEE = "+--"
 PIPE_PREFIX = "│   "
 SPACE_PREFIX = "    "
-
+"""
+I have added some comments
+Just to see if this github is working
+Properly as I would like to 
+"""
 
 class DirectoryTree:
     #self musi być (w sumie to dlaczego?), root_dir to aktualne pwd od którego zaczynamy szukania
